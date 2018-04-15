@@ -1,0 +1,31 @@
+{
+  "name": "lunaui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.js",
+    "start": "node scripts/dev.js",
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wubin15955186038/LunaUI2.0.git"
+  },
+  "author": "wubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wubin15955186038/LunaUI2.0/issues"
+  },
+  "homepage": "https://github.com/wubin15955186038/LunaUI2.0#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "case-sensitive-paths-webpack-plugin": "^2.1.2",
+    "html-webpack-plugin": "^3.2.0",
+    "postcss-px2rem": "^0.3.0",
+    "react-dev-utils": "^5.0.1",
+    "webpack": "^4.4.1",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
